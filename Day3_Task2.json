@@ -1,0 +1,28 @@
+{
+    "Basics":{
+        "Name":"Ragul Praveen",
+    "EmailID":"praveenragu88@gmail.com",
+    "MobileNo":"2355345856",
+    "Address":"16th street, Tiruvannamalai"},
+    "Education":{ 
+        "UG":{
+            "Institute":"Jeppiaar Engineering College",
+            "course":"BE EEE",
+            "YearofPassing":"2016",
+            "CGPA":"62"},
+    "HSC":{
+        "YearofPassing":"2012",
+        "Percentage":"82"},
+    "SSLC":{
+        "YearofPassing":"2010",
+        "Percentage":"82"}},
+    "Skills":{
+        "TechnicalSkills":{
+            "Languages":"javascript, Python",
+            "OperatingSystem":"Windows",
+            "WebTechnologies":"HTML"},    
+"OtherSkills":{
+    "Speakinglanguage":"English, Tamil"}},
+    "Hobbies" : "Watching Movies"
+    
+} 
