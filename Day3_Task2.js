@@ -26,8 +26,3 @@ let resume={
     "Hobbies" : "Watching Movies"
     
 } 
- 
-    for(var i in resume)
-    {
-    console.log(i,resume[i]);
-    }
